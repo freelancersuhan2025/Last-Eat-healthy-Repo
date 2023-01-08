@@ -1,0 +1,140 @@
+.top-baner-content{height: 550px;
+                   width:90%;
+                   background: url(images/Group\ 8450.png);
+                   background-repeat:no-repeat;
+                   background-position:120% 40%;
+                   background-size:700Px;
+                   padding-left:6%;
+                   padding-top:130px;
+                   margin: auto;}
+.top-baner-content span{color: #FB934A;}  
+.top-baner-content h1{font-size: 55px;
+                      font-weight: 700;
+                      font-family: 'Port Lligat Slab', serif;
+                       line-height: 65px;
+                        
+                    }                 
+.top-baner-link{background:linear-gradient(40deg,#FB934A , #FD5131);
+                text-decoration:  none;
+                padding: 25px 60px;
+                border-radius: 46px; 
+                color: white;
+                font-size: 24px;
+                box-shadow:  0px 0px 20px 0px tomato;}                   
+                
+.button-banerSection{background: url(images/shapes/Frame\ 58.jpg);
+                     background-repeat: no-repeat;
+                     background-size:cover;
+                     height: 500px;
+                     width: 100%;}
+ .button-baner-img{
+                  /*
+                  background:url(images/female/Person\ Image.png);
+                  background-repeat: no-repeat;
+                  background-size:contain;
+                  background-position:; */
+                  margin-left: 100px;
+                  float: left;
+                  width: 40%;
+                   height: 100%;}
+
+.button-baner-content{float: right;
+                      width: 4.5in;
+                     margin-right: 100px;
+                      height: 100%;
+                      line-height: 25px;}
+.button-baner-content h1{font-size: 55px;
+    font-weight: 700;
+    font-family: 'Port Lligat Slab', serif;
+}                      
+
+.button-baner-content a{background:linear-gradient(40deg,#FB934A , #FD5131);
+    text-decoration: none;
+    padding: 25px 60px;
+    border-radius: 46px; 
+    color: white;
+    font-size: 24px;
+    box-shadow:  0px 0px 20px 0px tomato;
+    display: inline-block;
+    margin-top: 50px;
+}           
+p{font-size: 17px;}
+/*My-Recipies style line*/
+.My-Recipies{margin: auto;
+             height: 1000px;
+             width: 90%;
+             margin-top: 100px;}
+.My-Recipies-top-text{}             
+
+    .recipie-text{margin: auto;
+                 text-align: center;
+                  width: 40%;
+                 line-height: 23px;}     
+              
+              
+.my-recipies-box{height: 75%;
+                width: 100%;}  
+.box-dable{height:75%;
+          width:100%;
+          margin-top: 30px;}
+.box-dable .box1{height:70%;
+                width: 48%;
+                float: left;
+                border-radius: 30px;
+                box-shadow: 0px 0px 15px 2px gray;
+                line-height: 25px;
+               }    
+.box1 img{border-radius: 10px;
+          display: inline-block;
+          /* margin: 10px 0px 0px 30px; */
+        }                     
+.box-dable .box2{
+    line-height: 25px;
+    height:70%;
+    width: 48%;
+    float: right;
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px 2px gray;}          
+.boxthre{height: 25%;
+         width: 100%;
+         border-radius: 30px;
+         box-shadow: 0px 0px 15px 2px gray;
+        }  
+.center-box{margin: auto;
+            width: fit-content;}        
+.box7{display: inline-block;
+                           text-align: center;
+                           height: 180px;
+                           width: 180px;
+                           margin-right:130px ; 
+                       ;
+                            }
+                             
+.box8{display: inline-block;
+                           text-align: center;
+                           height: 180px;
+                           width: 180px; 
+                           margin-right:130px ; 
+                            }
+                            
+.box9{display: inline-block;
+                           text-align: center;
+                           height: 180px;
+                           width: 180px;
+                           margin-right:0px;
+                           }
+/*My-Recipies style line*/
+
+footer{background-color: black;
+       height: 200px;
+       font-family: 'Port Lligat Slab', serif;
+      }
+#footer div{color: white;
+          display: inline-block;
+          margin-top: 40px;
+          text-align: center;
+           width: 100%;}       
+#footer div h2{color:#5B5B5B;}           
+#footer div h2 span{color: red;}
+#footer div p{color:#94959A;}
+
